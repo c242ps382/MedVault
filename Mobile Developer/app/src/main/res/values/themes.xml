@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MedVault" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/primary_500</item>
+    </style>
+
+    <style name="Theme.MedVault" parent="Base.Theme.MedVault" />
+
+    <style name="ButtonPrimary">
+        <item name="android:backgroundTint">@color/primary_600</item>
+        <item name="android:textColor">@color/neutral_100</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextError">
+        <item name="android:textColor">@color/error_600</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="TextSuccess">
+        <item name="android:textColor">@color/success_600</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+</resources>
