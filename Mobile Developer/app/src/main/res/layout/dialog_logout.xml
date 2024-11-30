@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_white_rounded_no_border"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_konfirmasi_keluar"
+        android:textSize="14sp"
+        android:fontFamily="@font/poppins_semibold"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/text_apakah_anda_yakin_mau_keluar"
+        android:textSize="12sp"
+        android:fontFamily="@font/poppins_medium"
+        android:textColor="@color/gray_50"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnNo"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:layout_weight="1"
+            android:text="@string/text_tidak"
+            android:textColor="@color/primary_500"
+            android:layout_marginEnd="8dp"
+            android:backgroundTint="@color/white"
+            app:strokeColor="@color/primary_500"
+            style="?attr/materialButtonOutlinedStyle" />
+
+        <Button
+            android:id="@+id/btnKeluar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:layout_marginStart="8dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/primary_500"
+            android:text="@string/text_keluar" />
+
+    </LinearLayout>
+
+</LinearLayout>
