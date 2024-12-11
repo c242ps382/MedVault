@@ -1,0 +1,772 @@
+code,diseases
+F41.0,Panic Disorder
+J38.1,Vocal Cord Polyp
+Q96,Turner Syndrome
+Q53.9,Cryptorchidism
+T52.3,Poisoning Due To Ethylene Glycol
+N95.2,Atrophic Vaginitis
+S62,Fracture Of The Hand
+K12.2,Cellulitis Or Abscess Of Mouth
+H50.9,Eye Alignment Disorder
+G97.1,Headache After Lumbar Puncture
+Q40.0,Pyloric Stenosis
+K11.0,Salivary Gland Disorder
+M92.8,Osteochondrosis
+S89.9,Injury To The Knee
+E88.9,Metabolic Disorder
+N76.0,Vaginitis
+I49.5,Sick Sinus Syndrome
+H93.1,Tinnitus Of Unknown Cause
+H40,Glaucoma
+F50,Eating Disorder
+G45.9,Transient Ischemic Attack
+N11.0,Pyelonephritis
+M75.1,Rotator Cuff Injury
+R52.2,Chronic Pain Disorder
+O21,Problem During Pregnancy
+C22.0,Liver Cancer
+P28.1,Atelectasis
+S69.9,Injury To The Hand
+Q44.4,Choledocholithiasis
+S79.9,Injury To The Hip
+K74,Cirrhosis
+I71.1,Thoracic Aortic Aneurysm
+I62.0,Subdural Hemorrhage
+H36.0,Diabetic Retinopathy
+M79.7,Fibromyalgia
+K55,Ischemia Of The Bowel
+Q86.0,Fetal Alcohol Syndrome
+K65,Peritonitis
+S39.9,Injury To The Abdomen
+K85,Acute Pancreatitis
+I80,Thrombophlebitis
+J45,Asthma
+T19.2,Foreign Body In The Vagina
+G25.8,Restless Leg Syndrome
+J43,Emphysema
+B69,Cysticercosis
+O04,Induced Abortion
+K00.7,Teething Syndrome
+A09,Infectious Gastroenteritis
+J01,Acute Sinusitis
+F10-F19,Substance-Related Mental Disorder
+F53.0,Postpartum Depression
+I25.1,Coronary Atherosclerosis
+M07.2,Spondylitis
+D35.2,Pituitary Adenoma
+D25.9,Uterine Fibroids
+N92.6,Idiopathic Nonmenstrual Bleeding
+H00.1,Chalazion
+N83.5,Ovarian Torsion
+H35.0,Retinopathy Due To High Blood Pressure
+B37.3,Vaginal Yeast Infection
+H70,Mastoiditis
+S27.3,Lung Contusion
+I42.1,Hypertrophic Obstructive Cardiomyopathy (Hocm)
+L60.0,Ingrown Toe Nail
+J82,Pulmonary Eosinophilia
+H18,Corneal Disorder
+T18,Foreign Body In The Gastrointestinal Tract
+H44.0,Endophthalmitis
+K90,Intestinal Malabsorption
+B07,Viral Warts
+R61,Hyperhidrosis
+I64,Stroke
+L05,Pilonidal Cyst
+T14.8,Crushing Injury
+G91.2,Normal Pressure Hydrocephalus
+L63,Alopecia
+E06.3,Hashimoto Thyroiditis
+M21.4,Flat Feet
+K76.8,Nonalcoholic Liver Disease (Nash)
+M25.0,Hemarthrosis
+N81,Pelvic Organ Prolapse
+S42,Fracture Of The Arm
+D68.9,Coagulation (Bleeding) Disorder
+I61,Intracranial Hemorrhage
+E87.5,Hyperkalemia
+H18.8,Cornea Infection
+J85,Abscess Of The Lung
+A90,Dengue Fever
+J32,Chronic Sinusitis
+H71,Cholesteatoma
+K56.2,Volvulus
+S69.9,Injury To The Finger
+T39,Poisoning Due To Analgesics
+I48,Atrial Fibrillation
+B80,Pinworm Infection
+Q64.2,Urethral Valves
+S11,Open Wound Of The Neck
+K22.0,Achalasia
+H90,Conductive Hearing Loss
+K46,Abdominal Hernia
+G80,Cerebral Palsy
+F12.1,Marijuana Abuse
+B45,Cryptococcosis
+E66,Obesity
+K30,Indigestion
+M70.1,Bursitis
+C15,Esophageal Cancer
+J81,Pulmonary Congestion
+M08.0,Juvenile Rheumatoid Arthritis
+L57.0,Actinic Keratosis
+H66.9,Acute Otitis Media
+H52.2,Astigmatism
+Q85.1,Tuberous Sclerosis
+J86,Empyema
+H91.1,Presbyacusis
+P59.9,Neonatal Jaundice
+J44.9,Chronic Obstructive Pulmonary Disease (Copd)
+S53.1,Dislocation Of The Elbow
+M47,Spondylosis
+B08.5,Herpangina
+S49.9,Injury To The Shoulder
+T43.2,Poisoning Due To Antidepressants
+T14.1,Infection Of Open Wound
+I82.8,Deep Vein Thrombosis (Dvt)
+D53.0,Protein Deficiency
+G25.3,Myoclonus
+M77.30,Bone Spur Of The Calcaneous
+D68.0,Von Willebrand Disease
+S31.0,Open Wound Of The Back
+I44,Heart Block
+K63.5,Colonic Polyp
+E61.2,Magnesium Deficiency
+N97,Female Infertility Of Unknown Cause
+I30,Pericarditis
+F90.9,Attention Deficit Hyperactivity Disorder (Adhd)
+I37,Pulmonic Valve Disease
+M94.0,Tietze Syndrome
+G52.9,Cranial Nerve Palsy
+S49.9,Injury To The Arm
+F44,Conversion Disorder
+G90.5,Complex Regional Pain Syndrome
+H80,Otosclerosis
+T09.9,Injury To The Trunk
+E03.9,Hypothyroidism
+G47.0,Primary Insomnia
+B85.0,Lice
+D51,Vitamin B12 Deficiency
+E10,Diabetes
+N94.8,Vulvodynia
+N80,Endometriosis
+L95.9,Vasculitis
+S06.0,Concussion
+K13.2,Oral Leukoplakia
+N18,Chronic Kidney Disease
+N32.9,Bladder Disorder
+H30,Chorioretinitis
+N48.3,Priapism
+M60,Myositis
+B27,Mononucleosis
+M79.2,Neuralgia
+Q61.3,Polycystic Kidney Disease
+F31,Bipolar Disorder
+E85,Amyloidosis
+G61.8,Chronic Inflammatory Demyelinating Polyneuropathy (Cidp)
+K21,Gastroesophageal Reflux Disease (Gerd)
+H43.1,Vitreous Hemorrhage
+T37.1,Poisoning Due To Antimicrobial Drugs
+S01.5,Open Wound Of The Mouth
+L94.0,Scleroderma
+G70.0,Myasthenia Gravis
+E16.2,Hypoglycemia
+N91,Idiopathic Absence Of Menstruation
+S93.0,Dislocation Of The Ankle
+T58,Carbon Monoxide Poisoning
+F41.0,Panic Attack
+M72.2,Plantar Fasciitis
+H52.0,Hyperopia
+Y47,Poisoning Due To Sedatives
+L10,Pemphigus
+N48.6,Peyronie Disease
+K44,Hiatal Hernia
+G25.70,Extrapyramidal Effect Of Drugs
+H81.0,Meniere Disease
+K60.2,Anal Fissure
+T78.4,Allergy
+H66.4,Chronic Otitis Media
+S62.6,Fracture Of The Finger
+Q43.1,Hirschsprung Disease
+M35.3,Polymyalgia Rheumatica
+I89.0,Lymphedema
+C67,Bladder Cancer
+J98.0,Acute Bronchospasm
+H40.1,Acute Glaucoma
+S21.1,Open Wound Of The Chest
+S83.0,Dislocation Of The Patella
+M54.3,Sciatica
+E83.5,Hypercalcemia
+N39.3,Stress Incontinence
+I83,Varicose Veins
+N28.1,Benign Kidney Cyst
+N43.3,Hydrocele Of The Testicle
+M51.3,Degenerative Disc Disease
+L68.0,Hirsutism
+S93.3,Dislocation Of The Foot
+N13.3,Hydronephrosis
+K57.3,Diverticulosis
+G89.18,Pain After An Operation
+G10,Huntington Disease
+C85.9,Lymphoma
+L55,Dermatitis Due To Sun Exposure
+D63,Anemia Due To Chronic Kidney Disease
+S36,Injury To Internal Organ
+H15.0,Scleritis
+H11.0,Pterygium
+B35.9,Fungal Infection Of The Skin
+T38.3,Insulin Overdose
+E22.2,Syndrome Of Inappropriate Secretion Of Adh (Siadh)
+T16,Foreign Body In The Ear
+N94.3,Premenstrual Tension Syndrome
+H05,Orbital Cellulitis
+S89.9,Injury To The Leg
+K76.82,Hepatic Encephalopathy
+C41.9,Bone Cancer
+G95.0,Syringomyelia
+J84.1,Pulmonary Fibrosis
+I05.9,Mitral Valve Disease
+G20,Parkinson Disease
+M10,Gout
+H65,Otitis Media
+F11,Drug Abuse (Opioids)
+D46,Myelodysplastic Syndrome
+S42,Fracture Of The Shoulder
+N17.9,Acute Kidney Injury
+O20.0,Threatened Pregnancy
+G06.0,Intracranial Abscess
+K05,Gum Disease
+T81.31,Open Wound From Surgical Incision
+K92.2,Gastrointestinal Hemorrhage
+L21,Seborrheic Dermatitis
+F15,Drug Abuse (Methamphetamine)
+M43.6,Torticollis
+T46.4,Poisoning Due To Antihypertensives
+G44.2,Tension Headache
+F10.0,Alcohol Intoxication
+E54,Scurvy
+G47.4,Narcolepsy
+T78.0,Food Allergy
+H83.0,Labyrinthitis
+F41.9,Anxiety
+F63.9,Impulse Control Disorder
+H04.5,Stenosis Of The Tear Duct
+J34.0,Abscess Of Nose
+P38,Omphalitis
+C95.9,Leukemia
+G51.0,Bell Palsy
+H10.1,Conjunctivitis Due To Allergy
+T88.7,Drug Reaction
+C74,Adrenal Cancer
+H52.1,Myopia
+M19.90,Osteoarthritis
+E07.9,Thyroid Disease
+J02,Pharyngitis
+I02,Chronic Rheumatic Fever
+E83.5,Hypocalcemia
+H35.3,Macular Degeneration
+J18,Pneumonia
+B00.1,Cold Sore
+I49.3,Premature Ventricular Contractions (Pvcs)
+C62,Testicular Cancer
+G91,Hydrocephalus
+C50,Breast Cancer
+D63.0,Anemia Due To Malignancy
+I85,Esophageal Varices
+C54.1,Endometrial Cancer
+E84,Cystic Fibrosis
+L30.4,Intertrigo (Skin Condition)
+D35.1,Parathyroid Adenoma
+E27.4,Glucocorticoid Deficiency
+K07.6,Temporomandibular Joint Disorder
+P27.0,Wilson Disease
+N13.7,Vesicoureteral Reflux
+E50,Vitamin A Deficiency
+A54,Gonorrhea
+S22.3,Fracture Of The Rib
+C71.9,Ependymoma
+K71.1,Hepatitis Due To A Toxin
+N89.0,Vaginal Cyst
+S41,Open Wound Of The Shoulder
+O00,Ectopic Pregnancy
+M25.56,Chronic Knee Pain
+H11.1,Pinguecula
+D80.6,Hypergammaglobulinemia
+F10.1,Alcohol Abuse
+G56.0,Carpal Tunnel Syndrome
+E23.6,Pituitary Disorder
+N20.0,Kidney Stone
+F84.0,Autism
+A28.1,Cat Scratch Disease
+H40.1,Chronic Glaucoma
+H33.0,Retinal Detachment
+D61.0,Aplastic Anemia
+N39.3,Overflow Incontinence
+D59.9,Hemolytic Anemia
+M77.1,Lateral Epicondylitis (Tennis Elbow)
+S01.1,Open Wound Of The Eye
+A50,Syphilis
+E11.2,Diabetic Kidney Disease
+J34,Nose Disorder
+F11.3,Drug Withdrawal
+K02,Dental Caries
+E78.0,Hypercholesterolemia
+S82.0,Fracture Of The Patella
+N18,Kidney Failure
+S12.9,Fracture Of The Neck
+M62.8,Muscle Spasm
+D68.311,Hemophilia
+E11.0,Hyperosmotic Hyperketotic State
+J36,Peritonsillar Abscess
+K31.84,Gastroparesis
+L29,Itching Of Unknown Cause
+D45,Polycythemia Vera
+D69.6,Thrombocytopenia
+C76.0,Head And Neck Cancer
+E20.1,Pseudohypoparathyroidism
+E04,Goiter
+N39.3,Urge Incontinence
+Q91.0,Edward Syndrome
+S41.1,Open Wound Of The Arm
+G71.0,Muscular Dystrophy
+N94.0,Mittelschmerz
+S05.0,Corneal Abrasion
+D63.8,Anemia Of Chronic Disease
+F34.1,Dysthymic Disorder
+A38,Scarlet Fever
+I11,Hypertensive Heart Disease
+F13,Drug Abuse (Barbiturates)
+E28.2,Polycystic Ovarian Syndrome (Pcos)
+G40.9,Encephalitis
+H02.8,Cyst Of The Eyelid
+N48.1,Balanitis
+T17.2,Foreign Body In The Throat
+F14.1,Drug Abuse (Cocaine)
+H46,Optic Neuritis
+F10.239,Alcohol Withdrawal
+I49.1,Premature Atrial Contractions (Pacs)
+G81,Hemiplegia
+M20.4,Hammer Toe
+S01.4,Open Wound Of The Cheek
+M25.4,Joint Effusion
+S81.0,Open Wound Of The Knee
+D32.9,Meningioma
+C71.9,Brain Cancer
+O45.9,Placental Abruption
+J30.2,Seasonal Allergies (Hay Fever)
+C34.9,Lung Cancer
+N18.9,Primary Kidney Disease
+C55,Uterine Cancer
+H04.12,Dry Eye Of Unknown Cause
+N60.3,Fibrocystic Breast Disease
+B35.0,Fungal Infection Of The Hair
+K12.2,Tooth Abscess
+T63.3,Envenomation From Spider Or Animal Bite
+Q87.2,Vacterl Syndrome
+G45.0,Vertebrobasilar Insufficiency
+K62,Rectal Disorder
+N32.0,Atonic Bladder
+H81.1,Benign Paroxysmal Positional Vertical (Bppv)
+G24.5,Blepharospasm
+D86,Sarcoidosis
+C79.9,Metastatic Cancer
+M65.3,Trigger Finger (Finger Disorder)
+H00.0,Stye
+E83.1,Hemochromatosis
+D16.3,Osteochondroma
+E24,Cushing Syndrome
+A01.0,Typhoid Fever
+H43.8,Vitreous Degeneration
+L90.5,Atrophic Skin Condition
+B44,Aspergillosis
+O62.2,Uterine Atony
+B75,Trichinosis
+A37,Whooping Cough
+S01.5,Open Wound Of The Lip
+E06.1,Subacute Thyroiditis
+K13,Oral Mucosal Lesion
+I61,Intracerebral Hemorrhage
+G30,Alzheimer Disease
+N94.2,Vaginismus
+M32,Systemic Lupus Erythematosis (Sle)
+E28.3,Premature Ovarian Failure
+G54.0 ,Thoracic Outlet Syndrome
+M67.4,Ganglion Cyst
+S83.1,Dislocation Of The Knee
+K50,Crohn Disease
+T81.4,Postoperative Infection
+D52.9,Folate Deficiency
+E87.7,Fluid Overload
+I48,Atrial Flutter
+L98,Skin Disorder
+H43.39,Floaters
+K00,Tooth Disorder
+I21.9,Heart Attack
+S31.1,Open Wound Of The Abdomen
+S82,Fracture Of The Leg
+B37.0,Oral Thrush (Yeast Infection)
+L42,Pityriasis Rosea
+J30.81,Allergy To Animals
+I95.1,Orthostatic Hypotension
+G47.3,Obstructive Sleep Apnea (Osa)
+E87.6,Hypokalemia
+L40,Psoriasis
+S43.0,Dislocation Of The Shoulder
+K56.1,Intussusception
+N72,Cervicitis
+J39.1,Abscess Of The Pharynx
+D47.3,Primary Thrombocythemia
+M16,Arthritis Of The Hip
+L89,Decubitus Ulcer
+E87.0,Hypernatremia
+H90.3,Sensorineural Hearing Loss
+L97,Chronic Ulcer
+M81,Osteoporosis
+K56.0,Ileus
+D57.0,Sickle Cell Crisis
+N34,Urethritis
+N41,Prostatitis
+H60.3,Otitis Externa (Swimmer'S Ear)
+T42.4,Poisoning Due To Anticonvulsants
+N44,Testicular Torsion
+I07.0,Tricuspid Valve Disease
+N35,Urethral Stricture
+E55,Vitamin D Deficiency
+O01,Hydatidiform Mole
+M54.2,Pain Disorder Affecting The Neck
+A15,Tuberculosis
+N81.8,Pelvic Fistula
+J21,Acute Bronchiolitis
+H52.4,Presbyopia
+F03,Dementia
+T63.4,Insect Bite
+147,Paroxysmal Ventricular Tachycardia
+Q24.9,Congenital Heart Defect
+M35.9,Connective Tissue Disorder
+T15,Foreign Body In The Eye
+T59,Poisoning Due To Gas
+N85.0,Endometrial Hyperplasia
+L83,Acanthosis Nigricans
+I70,Central Atherosclerosis
+B09,Viral Exanthem
+K52.9,Noninfectious Gastroenteritis
+N40,Benign Prostatic Hyperplasia (Bph)
+N95.0,Menopause
+D84.9,Primary Immunodeficiency
+C56,Ovarian Cancer
+H25,Cataract
+S73.0,Dislocation Of The Hip
+M48.0,Spinal Stenosis
+K56.6,Intestinal Obstruction
+S26.91XA,Heart Contusion
+Q89.9,Congenital Malformation Syndrome
+B42,Sporotrichosis
+I89.1,Lymphangitis
+E51.2,Wernicke Korsakoff Syndrome
+K63.9,Intestinal Disease
+J20,Acute Bronchitis
+R11.10,Persistent Vomiting Of Unknown Cause
+S91.3,Open Wound Of The Foot
+I40,Myocarditis
+O14.9,Preeclampsia
+I25,Ischemic Heart Disease
+Q85.0,Neurofibromatosis
+B01,Chickenpox
+C25,Pancreatic Cancer
+G62.0,Neuropathy Due To Drugs
+J05.0,Croup
+N92,Idiopathic Excessive Menstruation
+H53.0,Amblyopia
+Q43.0,Meckel Diverticulum
+S63.0,Dislocation Of The Wrist
+S09.2,Ear Drum Damage
+N52.9,Erectile Dysfunction
+R31,Temporary Or Benign Blood In Urine
+I12.0,Kidney Disease Due To Longstanding Hypertension
+M22.4,Chondromalacia Of The Patella
+B35.1,Onychomycosis
+N36.9,Urethral Disorder
+A69.2,Lyme Disease
+D50.9,Iron Deficiency Anemia
+J80,Acute Respiratory Distress Syndrome (Ards)
+E05.2,Toxic Multinodular Goiter
+S61.8,Open Wound Of The Finger
+G90.9,Autonomic Nervous System Disorder
+F66.9,Psychosexual Disorder
+D64.9,Anemia
+M67.90,Tendinitis
+J00,Common Cold
+G12.21,Amyotrophic Lateral Sclerosis (Als)
+H34.1,Central Retinal Artery Or Vein Occlusion
+I47.1,Paroxysmal Supraventricular Tachycardia
+I87.2,Venous Insufficiency
+A59,Trichomonas Infection
+L70,Acne
+F32,Depression
+F19,Drug Abuse
+N13.1,Urinary Tract Obstruction
+E23.2,Diabetes Insipidus
+H20,Iridocyclitis
+I86.1,Varicocele Of The Testicles
+K58,Irritable Bowel Syndrome
+S92.9,Fracture Of The Foot
+N83.2,Ovarian Cyst
+A74.9,Chlamydia
+B89,Parasitic Disease
+S02.6,Fracture Of The Jaw
+D17,Lipoma
+N77.1,Female Genitalia Infection
+I27.0,Pulmonary Hypertension
+E04.1,Thyroid Nodule
+S02.5,Broken Tooth
+K91.1,Dumping Syndrome
+L04,Lymphadenitis
+S09.9,Injury To The Face
+I35.9,Aortic Valve Disease
+M05,Rheumatoid Arthritis
+N43.4,Spermatocele
+L01,Impetigo
+K60.3,Anal Fistula
+T68,Hypothermia
+F91.3,Oppositional Disorder
+G43,Migraine
+G63.2,Diabetic Peripheral Neuropathy
+N50,Testicular Disorder
+O24.4,Gestational Diabetes
+L73.2,Hidradenitis Suppurativa
+A92.4,Valley Fever
+H10.8,Conjunctivitis Due To Bacteria
+G31.83,Lewy Body Dementia
+C90.0,Multiple Myeloma
+S09.9,Head Injury
+K83.0,Ascending Cholangitis
+N92.1,Idiopathic Irregular Menstrual Cycle
+J84.9,Interstitial Lung Disease
+G56,Mononeuritis
+B50,Malaria
+F45.0,Somatization Disorder
+E86.1,Hypovolemia
+F20,Schizophrenia
+S83,Knee Ligament Or Meniscus Tear
+I33,Endocarditis
+A41,Sepsis
+T67.0,Heat Stroke
+K81,Cholecystitis
+I46,Cardiac Arrest
+I42,Cardiomyopathy
+F40.1,Social Phobia
+G03,Meningitis
+D58.0,Spherocytosis
+E34.9,Hormone Disorder
+I73.0,Raynaud Disease
+M02,Reactive Arthritis
+B86,Scabies
+H61.2,Ear Wax Impaction
+O13,Hypertension Of Pregnancy
+I74,Peripheral Arterial Embolism
+L71,Rosacea
+S02.0,Fracture Of The Skull
+H20,Uveitis
+S02.4,Fracture Of The Facial Bones
+J04.1,Tracheitis
+M26.60,Jaw Disorder
+K61.1,Perirectal Infection
+N60.0,Breast Cyst
+F43.1,Post-Traumatic Stress Disorder (Ptsd)
+C64,Kidney Cancer
+C51,Vulvar Cancer
+H01.0,Blepharitis
+K90.0,Celiac Disease
+N30,Cystitis
+D57.1,Sickle Cell Anemia
+H11.3,Subconjunctival Hemorrhage
+I84,Hemorrhoids
+L23,Contact Dermatitis
+R00.1,Sinus Bradycardia
+I10,High Blood Pressure
+N73.9,Pelvic Inflammatory Disease
+K76.9,Liver Disease
+K59.0,Chronic Constipation
+C73,Thyroid Cancer
+J10,Flu
+G11,Friedrich Ataxia
+F95,Tic (Movement) Disorder
+L91.8,Skin Polyp
+G54.0,Brachial Neuritis
+C53,Cervical Cancer
+D35.0,Adrenal Adenoma
+K20,Esophagitis
+A48.0,Gas Gangrene
+B37,Yeast Infection
+Q05,Spina Bifida
+T50,Drug Poisoning Due To Medication
+K70,Alcoholic Liver Disease
+I10,Malignant Hypertension
+K57,Diverticulitis
+I67.5,Moyamoya Disease
+T67.5,Heat Exhaustion
+F29,Psychotic Disorder
+T33,Frostbite
+N48.8,Atrophy Of The Corpus Cavernosum
+F17.2,Smoking Or Tobacco Addiction
+S03,Sprain Or Strain
+G25.0,Essential Tremor
+S01.3,Open Wound Of The Ear
+T17.1,Foreign Body In The Nose
+N94.6,Idiopathic Painful Menstruation
+Q90,Down Syndrome
+N92.6,Idiopathic Infrequent Menstruation
+J93,Pneumothorax
+M65.4,De Quervain Disease
+S32.0,Fracture Of The Vertebra
+B20,Human Immunodeficiency Virus Infection (Hiv)
+B26,Mumps
+I60,Subarachnoid Hemorrhage
+O26.6,Acute Fatty Liver Of Pregnancy (Aflp)
+H02.1,Ectropion
+L90.5,Scar
+E73,Lactose Intolerance
+H69.9,Eustachian Tube Dysfunction (Ear Disorder)
+K35,Appendicitis
+E05.0,Graves Disease
+F44,Dissociative Disorder
+S01.9,Open Wound Of The Face
+S13.1,Dislocation Of The Vertebra
+N47,Phimosis
+O21.1,Hyperemesis Gravidarum
+O26.9,Pregnancy
+D56,Thalassemia
+O44,Placenta Previa
+S06.4,Epidural Hemorrhage
+M00.9,Septic Arthritis
+B35.3,Athlete'S Foot
+J90,Pleural Effusion
+H27.0,Aphakia
+N90.8,Vulvar Disorder
+K11.2,Sialoadenitis
+N62,Gynecomastia
+N39.0,Urinary Tract Infection
+B39,Histoplasmosis
+L51,Erythema Multiforme
+M41,Scoliosis
+M20.1,Bunion
+I49.9,Arrhythmia
+G50.0,Trigeminal Neuralgia
+M45,Ankylosing Spondylitis
+G64,Peripheral Nerve Disorder
+L72.0,Sebaceous Cyst
+T43.5,Poisoning Due To Antipsychotics
+F48,Neurosis
+C61,Prostate Cancer
+G93.6,Cerebral Edema
+S63.1,Dislocation Of The Finger
+P15,Birth Trauma
+K86.1,Chronic Pancreatitis
+M79.81,Hematoma
+E34.0,Carcinoid Syndrome
+S01.9,Open Wound Of The Head
+L82,Seborrheic Keratosis
+T30,Burn
+O03,Spontaneous Abortion
+A60.0,Genital Herpes
+F43.2,Adjustment Reaction
+K80,Gallstone
+G35,Multiple Sclerosis
+K22.5,Zenker Diverticulum
+S32,Fracture Of The Pelvis
+J60,Pneumoconiosis
+E78.5,Hyperlipidemia
+K51,Ulcerative Colitis
+N49,Male Genitalia Infection
+B97.7,Hpv
+I20,Angina
+S14.1,Injury To The Spinal Cord
+J33,Nasal Polyp
+L28.0,Lichen Simplex
+H02.0,Trichiasis
+B88.0,Acariasis
+C18,Colorectal Cancer
+L81.9,Skin Pigmentation Disorder
+F68.1,Factitious Disorder
+A55,Lymphogranuloma Venereum
+N64.3,Galactorrhea Of Unknown Cause
+D55.0,G6Pd Enzyme Deficiency
+M75.4,Nerve Impingement Near The Shoulder
+B58,Toxoplasmosis
+D24,Fibroadenoma
+S61,Open Wound Of The Hand
+O02.1,Missed Abortion
+E11.1,Diabetic Ketoacidosis
+A58,Granuloma Inguinale
+F42,Obsessive Compulsive Disorder (Ocd)
+S93,Injury Of The Ankle
+E87.1,Hyponatremia
+Q39.3,Stricture Of The Esophagus
+S82,Fracture Of The Ankle
+C49.9,Soft Tissue Sarcoma
+M89.9,Bone Disorder
+G40,Epilepsy
+F60.9,Personality Disorder
+B02,Shingles (Herpes Zoster)
+F95.2,Tourette Syndrome
+M87,Avascular Necrosis
+J02.0,Strep Throat
+G11.8,Spinocerebellar Ataxia
+M86,Osteomyelitis
+M35.0,Sjogren Syndrome
+M75.0,Adhesive Capsulitis Of The Shoulder
+B19,Viral Hepatitis
+J35.3,Tonsillar Hypertrophy
+K29.7,Gastritis
+C44.9,Skin Cancer
+I00,Rheumatic Fever
+K12.0,Aphthous Ulcer
+J03.9,Tonsillitis
+C18,Intestinal Cancer
+A77.0,Rocky Mountain Spotted Fever
+C16.9,Stomach Cancer
+F89,Developmental Disability
+F43.0,Acute Stress Reaction
+F05.9,Delirium
+L84,Callus
+G61.0,Guillain Barre Syndrome
+M54.5,Lumbago
+J34.2,Deviated Nasal Septum
+D18.0,Hemangioma
+I73.9,Peripheral Arterial Disease
+M54.9,Chronic Back Pain
+I50,Heart Failure
+H10,Conjunctivitis
+M51.1,Herniated Disk
+M62.82,Rhabdomyolysis
+N61,Breast Infection (Mastitis)
+I71.3,Abdominal Aortic Aneurysm
+I26,Pulmonary Embolism
+F91,Conduct Disorder
+Z90.1,Mastectomy
+N45,Epididymitis
+O42,Premature Rupture Of Amniotic Membrane
+B08.1,Molluscum Contagiosum
+M72.6,Necrotizing Fasciitis
+N89.8,Benign Vaginal Discharge (Leukorrhea)
+N32.0,Bladder Obstruction
+C43,Melanoma
+M50,Cervical Disorder
+J04.0,Laryngitis
+L30.1,Dyshidrosis
+T40.2,Poisoning Due To Opioids
+L22,Diaper Rash
+L43,Lichen Planus
+K26,Gastroduodenal Ulcer
+K40,Inguinal Hernia
+L20.8,Eczema
+F84.5,Asperger Syndrome
+K12.3,Mucositis
+L03,Paronychia
+S01.43,Open Wound Of The Jaw
+D72.9,White Blood Cell Disease
+C46,Kaposi Sarcoma
+M43.1,Spondylolisthesis
+G93.2,Pseudotumor Cerebri
+B30.9,Conjunctivitis Due To Virus
+S01.2,Open Wound Of The Nose
